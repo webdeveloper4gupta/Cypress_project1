@@ -1,0 +1,1 @@
+for instaling cypress: Set CYPRESS_INSTALL_BINARY=C:\Users\SukritanGupta\Downloads\cypress (1).zip && npm install cypress

@@ -1,0 +1,22 @@
+{
+  "name": "cypress_practice_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "log": "echo Hello World",
+    "cy-open": "cypress open",
+    "cy-run": "cypress run"
+  },
+  "author": "Sukritan gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.14.0",
+    "cypress-downloadfile": "^1.2.3",
+    "typescript": "^5.1.3"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  }
+}
